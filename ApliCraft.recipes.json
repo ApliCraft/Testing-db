@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "67570778845d04639e460336"
+  },
+  "name": "Fruitsssssssssss",
+  "kcalPortion": 24030,
+  "proteinPortion": 297,
+  "carbohydratesPortion": 6210,
+  "fatContentPortion": 81,
+  "prepareTime": 10,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "productId": "67561ab5b8fb5117aad48db9",
+      "quantity": 150,
+      "_id": {
+        "$oid": "67570778845d04639e460337"
+      }
+    },
+    {
+      "productId": "67561ab5b8fb5117aad48db9",
+      "quantity": 120,
+      "_id": {
+        "$oid": "67570778845d04639e460338"
+      }
+    }
+  ],
+  "category": "Śniadanie",
+  "excludedDiets": [],
+  "allergens": [],
+  "photo": {
+    "fileName": "Fruitsssssssssss-1733756792678.png",
+    "filePath": "uploads/images/Fruitsssssssssss-1733756792678.png",
+    "_id": {
+      "$oid": "67570778845d04639e460339"
+    }
+  },
+  "author": "Jan Kowalski",
+  "privacy": "private",
+  "likeQuantity": 2,
+  "saveQuantity": 0,
+  "preDescription": "Moje ulubione dane, proste w wykonaniu. Już teraz zobacz jak ona to zrobiła.",
+  "description": "Przepis na sałatkę owocową zyskał popularość już w roku 2000 reklamowany przez...",
+  "preparation": "Pokrój jabłko i banana, wymieszaj w misce.",
+  "keyWords": [
+    "fruit",
+    "fruits",
+    "salad",
+    "healthy",
+    "apple",
+    "apples",
+    "banana",
+    "bananas"
+  ],
+  "addDate": {
+    "$date": "2024-12-09T15:06:32.685Z"
+  },
+  "__v": 10,
+  "likedBy": [
+    {
+      "$oid": "67574b96caf492730dcbab7d"
+    },
+    {
+      "$oid": "6758b0f1b54953a1180b370c"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675707b9840123e2d44f6db4"
+  },
+  "name": "Fruitssssssssssss",
+  "kcalPortion": 24030,
+  "proteinPortion": 297,
+  "carbohydratesPortion": 6210,
+  "fatContentPortion": 81,
+  "prepareTime": 10,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "productId": "67561ab5b8fb5117aad48db9",
+      "quantity": 150,
+      "_id": {
+        "$oid": "675707b9840123e2d44f6db5"
+      }
+    },
+    {
+      "productId": "67561ab5b8fb5117aad48db9",
+      "quantity": 120,
+      "_id": {
+        "$oid": "675707b9840123e2d44f6db6"
+      }
+    }
+  ],
+  "category": "Śniadanie",
+  "excludedDiets": [],
+  "allergens": [],
+  "photo": {
+    "fileName": "Fruitssssssssssss-1733756857015.png",
+    "filePath": "uploads/images/Fruitssssssssssss-1733756857015.png",
+    "_id": {
+      "$oid": "675707b9840123e2d44f6db7"
+    }
+  },
+  "author": "Jan Kowalski",
+  "privacy": "private",
+  "likeQuantity": 6,
+  "saveQuantity": 0,
+  "preDescription": "Moje ulubione dane, proste w wykonaniu. Już teraz zobacz jak ona to zrobiła.",
+  "description": "Przepis na sałatkę owocową zyskał popularość już w roku 2000 reklamowany przez...",
+  "preparation": "Pokrój jabłko i banana, wymieszaj w misce.",
+  "keyWords": [
+    "fruit",
+    "fruits",
+    "salad",
+    "healthy",
+    "apple",
+    "apples",
+    "banana",
+    "bananas"
+  ],
+  "addDate": {
+    "$date": "2024-12-09T15:07:37.022Z"
+  },
+  "__v": 7,
+  "likedBy": [
+    {
+      "$oid": "67574b96caf492730dcbab7d"
+    },
+    {
+      "$oid": "67574c1acaf492730dcbab8a"
+    },
+    {
+      "$oid": "67575475148921543fe31b28"
+    },
+    {
+      "$oid": "675758e155405643b430208b"
+    },
+    {
+      "$oid": "6758b0f1b54953a1180b370c"
+    },
+    {
+      "$oid": "6758b0c7b54953a1180b3701"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675707d6560e3af9888949e4"
+  },
+  "name": "Fruitsssssssssssss",
+  "plName": "Frtut",
+  "kcalPortion": 24030,
+  "proteinPortion": 297,
+  "carbohydratesPortion": 6210,
+  "fatContentPortion": 81,
+  "prepareTime": 10,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "productId": "67561ab5b8fb5117aad48db9",
+      "quantity": 150,
+      "_id": {
+        "$oid": "675707d6560e3af9888949e5"
+      }
+    },
+    {
+      "productId": "67561ab5b8fb5117aad48db9",
+      "quantity": 120,
+      "_id": {
+        "$oid": "675707d6560e3af9888949e6"
+      }
+    }
+  ],
+  "category": "Śniadanie",
+  "excludedDiets": [],
+  "allergens": [],
+  "photo": {
+    "fileName": "Fruitsssssssssssss-1733756886012.png",
+    "filePath": "uploads/images/Fruitsssssssssssss-1733756886012.png",
+    "_id": {
+      "$oid": "675707d6560e3af9888949e7"
+    }
+  },
+  "author": "Jan Kowalski",
+  "privacy": "private",
+  "likeQuantity": 3,
+  "saveQuantity": 0,
+  "preDescription": "Moje ulubione dane, proste w wykonaniu. Już teraz zobacz jak ona to zrobiła.",
+  "description": "Przepis na sałatkę owocową zyskał popularość już w roku 2000 reklamowany przez...",
+  "preparation": "Pokrój jabłko i banana, wymieszaj w misce.",
+  "keyWords": [
+    "fruit",
+    "fruits",
+    "salad",
+    "healthy",
+    "apple",
+    "apples",
+    "banana",
+    "bananas"
+  ],
+  "addDate": {
+    "$date": "2024-12-09T15:08:06.019Z"
+  },
+  "__v": 3,
+  "likedBy": [
+    {
+      "$oid": "67575475148921543fe31b28"
+    },
+    {
+      "$oid": "6758b0f1b54953a1180b370c"
+    },
+    {
+      "$oid": "6758b0c7b54953a1180b3701"
+    }
+  ]
+}]

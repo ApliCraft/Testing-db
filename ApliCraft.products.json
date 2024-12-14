@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "67561a9cb8fb5117aad48db2"
+  },
+  "name": "Apple",
+  "plName": "Jabłko",
+  "kcalPortion": 52,
+  "proteinPortion": 0.3,
+  "carbohydratesPortion": 14,
+  "fatContentPortion": 0.2,
+  "photo": {
+    "fileName": "Apple-1733696156565.png",
+    "filePath": "uploads/images/Apple-1733696156565.png",
+    "_id": {
+      "$oid": "67561a9cb8fb5117aad48db3"
+    }
+  },
+  "excludedDiets": [],
+  "allergens": [],
+  "class": "Fruit",
+  "addDate": {
+    "$date": "2024-12-08T22:15:56.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67561ab5b8fb5117aad48db9"
+  },
+  "name": "Banana",
+  "plName": "Banan",
+  "kcalPortion": 89,
+  "proteinPortion": 1.1,
+  "carbohydratesPortion": 23,
+  "fatContentPortion": 0.3,
+  "photo": {
+    "fileName": "Banana-1733696181950.png",
+    "filePath": "uploads/images/Banana-1733696181950.png",
+    "_id": {
+      "$oid": "67561ab5b8fb5117aad48dba"
+    }
+  },
+  "excludedDiets": [],
+  "allergens": [],
+  "class": "Fruit",
+  "addDate": {
+    "$date": "2024-12-08T22:16:21.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67561ac6b8fb5117aad48dbe"
+  },
+  "name": "Carrot",
+  "plName": "Marchew",
+  "kcalPortion": 41,
+  "proteinPortion": 0.9,
+  "carbohydratesPortion": 10,
+  "fatContentPortion": 0.2,
+  "photo": {
+    "fileName": "Carrot-1733696198266.png",
+    "filePath": "uploads/images/Carrot-1733696198266.png",
+    "_id": {
+      "$oid": "67561ac6b8fb5117aad48dbf"
+    }
+  },
+  "excludedDiets": [],
+  "allergens": [],
+  "class": "Vegetable",
+  "addDate": {
+    "$date": "2024-12-08T22:16:38.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67561ae7b8fb5117aad48dc3"
+  },
+  "name": "Tomato",
+  "plName": "Pomidor",
+  "kcalPortion": 18,
+  "proteinPortion": 0.9,
+  "carbohydratesPortion": 4,
+  "fatContentPortion": 0.2,
+  "photo": {
+    "fileName": "Tomato-1733696231682.png",
+    "filePath": "uploads/images/Tomato-1733696231682.png",
+    "_id": {
+      "$oid": "67561ae7b8fb5117aad48dc4"
+    }
+  },
+  "excludedDiets": [],
+  "allergens": [],
+  "class": "Vegetable",
+  "addDate": {
+    "$date": "2024-12-08T22:17:11.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67561afbb8fb5117aad48dc8"
+  },
+  "name": "Spinach",
+  "plName": "Szpinak",
+  "kcalPortion": 23,
+  "proteinPortion": 2.9,
+  "carbohydratesPortion": 3.6,
+  "fatContentPortion": 0.4,
+  "photo": {
+    "fileName": "Spinach-1733696251900.png",
+    "filePath": "uploads/images/Spinach-1733696251900.png",
+    "_id": {
+      "$oid": "67561afbb8fb5117aad48dc9"
+    }
+  },
+  "excludedDiets": [],
+  "allergens": [],
+  "class": "Vegetable",
+  "addDate": {
+    "$date": "2024-12-08T22:17:31.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67561c3fb8fb5117aad48de7"
+  },
+  "name": "Cucumber",
+  "kcalPortion": 15,
+  "proteinPortion": 0.6,
+  "carbohydratesPortion": 3.6,
+  "fatContentPortion": 0.1,
+  "photo": {
+    "fileName": "Cucumber-1733696575574.png",
+    "filePath": "uploads/images/Cucumber-1733696575574.png",
+    "_id": {
+      "$oid": "67561c3fb8fb5117aad48de8"
+    }
+  },
+  "excludedDiets": [],
+  "allergens": [],
+  "class": "Vegetable",
+  "addDate": {
+    "$date": "2024-12-08T22:22:55.575Z"
+  },
+  "__v": 0
+}]

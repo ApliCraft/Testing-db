@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "675d77cf94e1ff88add76925"
+  },
+  "username": "example",
+  "email": "zaksi34u12345s@example.com",
+  "password": "$2b$10$pCWr6kZq2rsIcYoyh5.BNu2Tj4plDwFLhRVvComf96D2xj3ftYteC",
+  "signInDate": {
+    "$date": "2024-12-14T12:19:10.682Z"
+  },
+  "isActive": false,
+  "loginAttempts": 0,
+  "isEmailVerified": false,
+  "twoFactorEnabled": false,
+  "accountStatus": "active",
+  "roles": [
+    "user"
+  ],
+  "languagePreference": "en",
+  "themePreference": "light",
+  "timezone": "UTC",
+  "contentPreferences": [],
+  "activityLogs": [
+    {
+      "message": "Account creation.",
+      "date": {
+        "$date": "2024-12-14T12:19:27.392Z"
+      },
+      "_id": {
+        "$oid": "675d77cf94e1ff88add76926"
+      }
+    },
+    {
+      "message": "Password changed.",
+      "date": {
+        "$date": "2024-12-14T12:21:05.541Z"
+      },
+      "_id": {
+        "$oid": "675d7831a5fc27af4807d7e7"
+      }
+    },
+    {
+      "message": "Email changed from zaksiu12@example.com to zaksi34u12345s@example.com.",
+      "date": {
+        "$date": "2024-12-14T12:21:05.545Z"
+      },
+      "_id": {
+        "$oid": "675d7831a5fc27af4807d7e9"
+      }
+    }
+  ],
+  "searchHistory": [],
+  "savedItems": [],
+  "paymentMethods": [],
+  "transactionHistory": [],
+  "friendsList": [],
+  "followers": [],
+  "messages": [],
+  "groups": [],
+  "auditLogs": [],
+  "gdprConsent": false,
+  "ageVerification": false,
+  "likedRecipes": [],
+  "__v": 1,
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NzVkNzdjZjk0ZTFmZjg4YWRkNzY5MjUiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTczNDE3ODg4OCwiZXhwIjoxNzM0MTgyNDg4fQ.V2Rq1z6yb9uxcqKjRhYP_aciHBFTc2KvTJMNAz-zo9E",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NzVkNzdjZjk0ZTFmZjg4YWRkNzY5MjUiLCJpYXQiOjE3MzQxNzg4ODgsImV4cCI6MTczOTM2Mjg4OH0.R2hZp6GtOLByNVhZ4SCpgw9_t2Gy7PqYMW24ifuhSds"
+}]
