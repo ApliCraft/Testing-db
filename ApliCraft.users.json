@@ -64,4 +64,658 @@
   "__v": 1,
   "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NzVkNzdjZjk0ZTFmZjg4YWRkNzY5MjUiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTczNDE3ODg4OCwiZXhwIjoxNzM0MTgyNDg4fQ.V2Rq1z6yb9uxcqKjRhYP_aciHBFTc2KvTJMNAz-zo9E",
   "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NzVkNzdjZjk0ZTFmZjg4YWRkNzY5MjUiLCJpYXQiOjE3MzQxNzg4ODgsImV4cCI6MTczOTM2Mjg4OH0.R2hZp6GtOLByNVhZ4SCpgw9_t2Gy7PqYMW24ifuhSds"
+},
+{
+  "_id": {
+    "$oid": "675d86839e832c4631aad9b5"
+  },
+  "username": "12321321",
+  "email": "zaksiu12@example.com",
+  "password": "$2b$10$u8HqhJ6xJJqE3jSU3WprMeuX4q7IsLPkCF82qHhyu1wdxvoyjh4P.",
+  "signInDate": {
+    "$date": "2024-12-14T13:21:30.904Z"
+  },
+  "isActive": true,
+  "loginAttempts": 0,
+  "isEmailVerified": false,
+  "twoFactorEnabled": false,
+  "accountStatus": "active",
+  "roles": [
+    "user"
+  ],
+  "languagePreference": "en",
+  "themePreference": "light",
+  "timezone": "UTC",
+  "contentPreferences": [],
+  "activityLogs": [
+    {
+      "message": "Account creation.",
+      "date": {
+        "$date": "2024-12-14T13:22:11.537Z"
+      },
+      "_id": {
+        "$oid": "675d86839e832c4631aad9b6"
+      }
+    }
+  ],
+  "searchHistory": [],
+  "savedItems": [],
+  "paymentMethods": [],
+  "transactionHistory": [],
+  "friendsList": [],
+  "followers": [],
+  "messages": [],
+  "groups": [],
+  "auditLogs": [],
+  "gdprConsent": false,
+  "ageVerification": false,
+  "likedRecipes": [],
+  "__v": 23,
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NzVkODY4MzllODMyYzQ2MzFhYWQ5YjUiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTczNTgzNzg0MiwiZXhwIjoxNzM1ODQxNDQyfQ._0iUQdnO8wPP34e7ztpwiUaerxhL9jfRFKWhD31aI3c",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NzVkODY4MzllODMyYzQ2MzFhYWQ5YjUiLCJpYXQiOjE3MzU4Mzc4NDIsImV4cCI6MTc0MTAyMTg0Mn0.ebDfgA-oFdYA2dMOsWJQMIrlMIxJQr1MDfVlj6XahuU",
+  "devicesLoginInfo": [
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776bec8d725caeb69f9265f"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776becbd725caeb69f92663"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776beccd725caeb69f92668"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776bf27d725caeb69f9266e"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776bf28d725caeb69f92675"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776bf2fd725caeb69f9267d"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:27:28.811Z"
+      },
+      "_id": {
+        "$oid": "6776bf30d725caeb69f92686"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:33:01.382Z"
+      },
+      "_id": {
+        "$oid": "6776bfc355e97e2528e12e27"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:33:44.588Z"
+      },
+      "_id": {
+        "$oid": "6776bfffb75d0ad7ee4f436e"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:33:44.588Z"
+      },
+      "_id": {
+        "$oid": "6776c005b75d0ad7ee4f437a"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:33:44.588Z"
+      },
+      "_id": {
+        "$oid": "6776c03eb75d0ad7ee4f4387"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:40:17.839Z"
+      },
+      "_id": {
+        "$oid": "6776c18b210ab863bb61d8b4"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:40:17.839Z"
+      },
+      "_id": {
+        "$oid": "6776c18d210ab863bb61d8c3"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:43:45.350Z"
+      },
+      "_id": {
+        "$oid": "6776c2453b1e421637862c4d"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:44:10.389Z"
+      },
+      "_id": {
+        "$oid": "6776c25b62e1ddafef0f0def"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:44:10.389Z"
+      },
+      "_id": {
+        "$oid": "6776c26362e1ddafef0f0e12"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:44:10.389Z"
+      },
+      "_id": {
+        "$oid": "6776c26462e1ddafef0f0e25"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:45:55.027Z"
+      },
+      "_id": {
+        "$oid": "6776c2c7e2791e7894d28a8c"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:45:55.027Z"
+      },
+      "_id": {
+        "$oid": "6776c2cbe2791e7894d28aa1"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:48:02.476Z"
+      },
+      "_id": {
+        "$oid": "6776c344d85f943c58254863"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:48:02.476Z"
+      },
+      "_id": {
+        "$oid": "6776c345d85f943c5825487a"
+      }
+    },
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T17:04:31.647Z"
+      },
+      "_id": {
+        "$oid": "6776c8922c9e69bdda4cda8d"
+      }
+    }
+  ],
+  "nextUnlockTime": null,
+  "permanentBan": false
+},
+{
+  "_id": {
+    "$oid": "6776c2a49bdc900d8ec6e1de"
+  },
+  "username": "example1",
+  "email": "zaksiu121@example.com",
+  "password": "$2b$10$yDuPBTsjGJYmc0UY8fbRpOT.A/jKxlgPy4BwixXCH40jnHu4rkLPe",
+  "signInDate": {
+    "$date": "2025-01-02T16:45:18.303Z"
+  },
+  "isActive": true,
+  "loginAttempts": 0,
+  "isEmailVerified": false,
+  "twoFactorEnabled": false,
+  "accountStatus": "active",
+  "roles": [
+    "user"
+  ],
+  "languagePreference": "en",
+  "themePreference": "light",
+  "timezone": "UTC",
+  "contentPreferences": [],
+  "activityLogs": [
+    {
+      "message": "Account creation.",
+      "date": {
+        "$date": "2025-01-02T16:45:24.018Z"
+      },
+      "_id": {
+        "$oid": "6776c2a49bdc900d8ec6e1df"
+      }
+    }
+  ],
+  "searchHistory": [],
+  "savedItems": [],
+  "paymentMethods": [],
+  "transactionHistory": [],
+  "friendsList": [],
+  "followers": [],
+  "messages": [],
+  "groups": [],
+  "auditLogs": [],
+  "gdprConsent": false,
+  "ageVerification": false,
+  "likedRecipes": [],
+  "devicesLoginInfo": [
+    {
+      "isMobile": false,
+      "isMobileNative": false,
+      "isTablet": false,
+      "isiPad": false,
+      "isiPod": false,
+      "isiPhone": false,
+      "isAndroid": false,
+      "isSamsung": false,
+      "isRaspberry": false,
+      "isBot": "postman",
+      "isAndroidTablet": false,
+      "browser": "PostmanRuntime",
+      "version": "7.43.0",
+      "os": "unknown",
+      "platform": "unknown",
+      "source": "PostmanRuntime/7.43.0",
+      "date": {
+        "$date": "2025-01-02T16:45:18.300Z"
+      },
+      "_id": {
+        "$oid": "6776c2a49bdc900d8ec6e1e0"
+      }
+    }
+  ],
+  "__v": 0
 }]

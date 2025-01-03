@@ -214,4 +214,130 @@
       "$oid": "6758b0c7b54953a1180b3701"
     }
   ]
+},
+{
+  "_id": {
+    "$oid": "675d879d90a3b1421c861377"
+  },
+  "name": "Fruitsssssssssssasdgsdfgsd",
+  "kcalPortion": 4050,
+  "proteinPortion": 162,
+  "carbohydratesPortion": 972,
+  "fatContentPortion": 27,
+  "prepareTime": 10,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "productId": "67561c3fb8fb5117aad48de7",
+      "quantity": 150,
+      "_id": {
+        "$oid": "675d879d90a3b1421c861378"
+      }
+    },
+    {
+      "productId": "67561c3fb8fb5117aad48de7",
+      "quantity": 120,
+      "_id": {
+        "$oid": "675d879d90a3b1421c861379"
+      }
+    }
+  ],
+  "category": "Śniadanie",
+  "excludedDiets": [],
+  "allergens": [],
+  "photo": {
+    "fileName": "Fruitsssssssssssasdgsdfgsd-1734182813492.png",
+    "filePath": "uploads/images/Fruitsssssssssssasdgsdfgsd-1734182813492.png",
+    "_id": {
+      "$oid": "675d879d90a3b1421c86137a"
+    }
+  },
+  "author": {
+    "$oid": "675d77cf94e1ff88add76925"
+  },
+  "privacy": "private",
+  "likeQuantity": 0,
+  "saveQuantity": 0,
+  "preDescription": "Moje ulubione dane, proste w wykonaniu. Już teraz zobacz jak ona to zrobiła.",
+  "description": "Przepis na sałatkę owocową zyskał popularość już w roku 2000 reklamowany przez...",
+  "preparation": "Pokrój jabłko i banana, wymieszaj w misce.",
+  "keyWords": [
+    "fruit",
+    "fruits",
+    "salad",
+    "healthy",
+    "apple",
+    "apples",
+    "banana",
+    "bananas"
+  ],
+  "likedBy": [],
+  "addDate": {
+    "$date": "2024-12-14T13:26:53.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d8915a61d22b4025f8741"
+  },
+  "name": "Fruitsssssssssssasdgsdfgsdsds",
+  "kcalPortion": 4050,
+  "proteinPortion": 162,
+  "carbohydratesPortion": 972,
+  "fatContentPortion": 27,
+  "prepareTime": 10,
+  "difficulty": 2,
+  "ingredients": [
+    {
+      "productId": "67561c3fb8fb5117aad48de7",
+      "quantity": 150,
+      "_id": {
+        "$oid": "675d8915a61d22b4025f8742"
+      }
+    },
+    {
+      "productId": "67561c3fb8fb5117aad48de7",
+      "quantity": 120,
+      "_id": {
+        "$oid": "675d8915a61d22b4025f8743"
+      }
+    }
+  ],
+  "category": "Śniadanie",
+  "excludedDiets": [],
+  "allergens": [],
+  "photo": {
+    "fileName": "Fruitsssssssssssasdgsdfgsdsds-1734183189621.png",
+    "filePath": "uploads/images/Fruitsssssssssssasdgsdfgsdsds-1734183189621.png",
+    "_id": {
+      "$oid": "675d8915a61d22b4025f8744"
+    }
+  },
+  "author": [
+    {
+      "$oid": "675d77cf94e1ff88add76925"
+    }
+  ],
+  "privacy": "private",
+  "likeQuantity": 0,
+  "saveQuantity": 0,
+  "preDescription": "Moje ulubione dane, proste w wykonaniu. Już teraz zobacz jak ona to zrobiła.",
+  "description": "Przepis na sałatkę owocową zyskał popularość już w roku 2000 reklamowany przez...",
+  "preparation": "Pokrój jabłko i banana, wymieszaj w misce.",
+  "keyWords": [
+    "fruit",
+    "fruits",
+    "salad",
+    "healthy",
+    "apple",
+    "apples",
+    "banana",
+    "bananas"
+  ],
+  "likedBy": [],
+  "addDate": {
+    "$date": "2024-12-14T13:33:09.627Z"
+  },
+  "__v": 0
 }]
